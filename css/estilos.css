@@ -1,5 +1,19 @@
 body {
     text-align: center;
     font-family: Arial;
-    color: deeppink;
+    color: #333;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 70%;
+    padding: 1px;
+    text-align: left;
+    border: 1px solid grey;
+    margin: 0 auto ;
+}
+
+.text-decoration {
+    font-size: 22px;
 }
